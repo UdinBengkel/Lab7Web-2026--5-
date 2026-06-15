@@ -45,7 +45,7 @@ Kemudian buka `app/Views/artikel/admin_index.php` dan tambahkan kode berikut di 
 
 **Screenshot:**
 
-![Pagination]([https://github.com/user-attachments/assets/xxx...](https://private-user-images.githubusercontent.com/145629080/607694811-e5f549c3-0570-45dd-8b71-e55531edb459.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE0OTU3OTcsIm5iZiI6MTc4MTQ5NTQ5NywicGF0aCI6Ii8xNDU2MjkwODAvNjA3Njk0ODExLWU1ZjU0OWMzLTA1NzAtNDVkZC04YjcxLWU1NTUzMWVkYjQ1OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNjE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDYxNVQwMzUxMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kMjE4ZGNkNDk0M2Q2YjI0OGUwNjQ4MzMxNjM4MWUxYzgwMGUwMmM2NGI0NTgzNGI4NDQ4OTk1OTgxYjViYTYwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.5MM9ItUlxmGTZNIJ7zRqgUQp0smOkszYv63kU-jAXJ4))
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/e5f549c3-0570-45dd-8b71-e55531edb459" />
 
 ---
 
