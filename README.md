@@ -45,7 +45,7 @@ Kemudian buka `app/Views/artikel/admin_index.php` dan tambahkan kode berikut di 
 
 **Screenshot:**
 
-> ![Pagination](screenshots/pagination.png)
+> ![Pagination](https://github.com/UdinBengkel/Lab7Web-2026--5-/issues/1#issue-4661862551)
 
 ---
 
