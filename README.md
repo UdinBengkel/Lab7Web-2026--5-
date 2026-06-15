@@ -45,7 +45,7 @@ Kemudian buka `app/Views/artikel/admin_index.php` dan tambahkan kode berikut di 
 
 **Screenshot:**
 
-<img width="500" alt="Image" src="https://github.com/user-attachments/assets/e5f549c3-0570-45dd-8b71-e55531edb459" />
+> <img width="700" alt="Image" src="https://github.com/user-attachments/assets/e5f549c3-0570-45dd-8b71-e55531edb459" />
 
 ---
 
@@ -88,7 +88,7 @@ Ubah link pager agar pencarian tetap terbawa saat berpindah halaman:
 
 **Screenshot:**
 
-> ![Pencarian](screenshots/pencarian.png)
+> <img width="700" alt="Image" src="https://github.com/user-attachments/assets/e53d275d-1b22-443b-b0ea-eab05db09fc4" />
 
 ---
 
@@ -104,7 +104,7 @@ Sebagai improvisasi, tampilan halaman admin artikel diperbarui menggunakan CSS c
 
 **Screenshot:**
 
-> ![Tampilan Improvisasi](screenshots/improvisasi.png)
+> <img width="700" alt="Image" src="https://github.com/user-attachments/assets/e5f549c3-0570-45dd-8b71-e55531edb459" />
 
 ---
 
